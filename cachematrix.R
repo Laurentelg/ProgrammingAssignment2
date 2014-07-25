@@ -9,6 +9,8 @@
 ## To run this assignment your first need to "Instantiate the object by calling makeCacheMatrix and then call CacheSolve
 ## on the result
 
+## Modified by Laurent July 2014
+
 makeCacheMatrix <- function(x = matrix()) {
 
   xt <- NULL
